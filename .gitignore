@@ -1,0 +1,8 @@
+# Database configuration
+config.json
+
+# Dependency directories
+node_modules/
+
+# env files
+.env.*
